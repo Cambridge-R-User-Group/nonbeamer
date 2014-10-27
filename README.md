@@ -1,6 +1,8 @@
 nonbeamer
 ====
 
+Original repo is at https://github.com/cainesap/nonbeamer.
+
 Moving away from the LaTeX Beamer package: making presentations with remark.js (markdown), reveal.js (Rmarkdown), Shiny (R)
 
 #### Contents
